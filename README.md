@@ -1,5 +1,2 @@
-###Projetos Pedido de Pizzas
-
-- treinamento do curso B7WEB com HTML5, CSS e JAVASCRIPT
-
-- utilzado Manipulação do DOM, simulação de manipulação de API.  
+# pizza-b7web
+ projeto do curso b7web utlizando js , html e css
